@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestingSMS</string>
+
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="lbl_name">Informe o nome</string>
+    <string name="lbl_email">Informe o e-mail</string>
+    <string name="lbl_phone">Informe o telefone</string>
+    <string name="lbl_send">Enviar</string>
+    <string name="lbl_back">Voltar</string>
+    <string name="title_activity_screen2">Screen2</string>
+    <string name="lbl_message">Informe a mensagem</string>
+
+
+
+</resources>
